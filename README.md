@@ -1,18 +1,14 @@
 # Alexander Rojas
 
-Soy un desarrollador de 20 años, entusiasmado por aprender y crecer en el mundo de la programación.  
-Actualmente busco mi primera oportunidad profesional para seguir mejorando mis habilidades y adquirir experiencia en proyectos reales.  
+Un desrrollador de software apasionado por la tecnología y las mandarinas.
 
 ## Tecnologías
 - HTML, CSS, JavaScript  
 - React, TailwindCSS  
-- Git & GitHub  
+- Git  
 
 ## Proyectos
-- [Portafolio](https://...) – Mi portfolio personal con proyectos destacados.  
-- [Proyecto X](https://...) – Breve descripción del proyecto y las tecnologías utilizadas.  
-- [Proyecto Y](https://...) – Breve descripción del proyecto y las tecnologías utilizadas.  
+- [Arlogs](https://arlogs.vercel.app) – Blog personal donde publico sobre programación y apuntes de aprendizaje.  
 
 ## Contacto
-- Email: tuemail@example.com  
-- LinkedIn: [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)  
+- LinkedIn: [linkedin.com/in/tuusuario](https://www.linkedin.com/in/rojasbarriosalexander/)  
