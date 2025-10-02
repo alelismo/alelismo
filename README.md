@@ -1,16 +1,18 @@
-## Hi there 👋
+# Alexander Rojas
 
-<!--
-**alxndrrjs/alxndrrjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador de 20 años, entusiasmado por aprender y crecer en el mundo de la programación.  
+Actualmente busco mi primera oportunidad profesional para seguir mejorando mis habilidades y adquirir experiencia en proyectos reales.  
 
-Here are some ideas to get you started:
+## Tecnologías
+- HTML, CSS, JavaScript  
+- React, TailwindCSS  
+- Git & GitHub  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyectos
+- [Portafolio](https://...) – Mi portfolio personal con proyectos destacados.  
+- [Proyecto X](https://...) – Breve descripción del proyecto y las tecnologías utilizadas.  
+- [Proyecto Y](https://...) – Breve descripción del proyecto y las tecnologías utilizadas.  
+
+## Contacto
+- Email: tuemail@example.com  
+- LinkedIn: [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)  
