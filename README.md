@@ -1,3 +1,5 @@
+<img src="https://github.com/alelismo/alelismo/blob/main/banner.jpg?raw=true" width="100%">
+
 Desarrollador de software apasionado por la tecnología y las mandarinas.
 
 ## Habilidades
