@@ -1,6 +1,4 @@
-# alexander rojas
-
-Un desarrollador de software apasionado por la tecnología y las mandarinas.
+Desarrollador de software apasionado por la tecnología y las mandarinas.
 
 ## Habilidades
 
